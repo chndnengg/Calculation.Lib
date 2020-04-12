@@ -1,5 +1,4 @@
 Hello, THis is my first text file for calculation
 Addition
 Substraction
-Division
 Multiplication
